@@ -1,0 +1,85 @@
+canonical_identifier: bkk:krp/KR6g0013/v1
+canonical_location: https://kanripo.org/bkk/KR6g0013/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 涅槃經玄義文句
+  identifiers:
+    alt_id:
+    - X36n0656
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X36/X36n0656.xml
+    old_id: X36n0656
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0013_000.yaml, hash: 'sha256:c9691d95ec34707f5752d7f1a5ffb32ccf0654ad22fd974194a9b24352401573'}
+  - {seq: 1, filename: KR6g0013_001.yaml, hash: 'sha256:d494d903b197c135419dbd8fb0903bc61688c422b6c9ad781722abfa221eb3b9'}
+  - {seq: 2, filename: KR6g0013_002.yaml, hash: 'sha256:60fe59c3d829163b93efbe84339144d7da22a8b8651417d93e54c6c831299372'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0013_000.markers.yaml, hash: 'sha256:e0dcf79e01bac744c070202bdccd50368e727d53a8703658dd388a8faa698e6f'}
+  - {seq: 1, role: markers, filename: assets/KR6g0013_001.markers.yaml, hash: 'sha256:ed8bbd0ea0002d0b54314318afb075086e9ee3fa24ccc7fbcbb52c2e12ddb3fc'}
+  - {seq: 2, role: markers, filename: assets/KR6g0013_002.markers.yaml, hash: 'sha256:c2eb40c5dd991c07d215bbf3a8fa7a7886b77fb05aeedf997ab07cdba489dcad'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6g0013_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 656-A 大般涅槃經玄義文句會本序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6g0013_X_000-mulu-2
+    span:
+    - front
+    - 585
+    - 585
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6g0013_X_000-mulu-3
+    span:
+    - front
+    - 1011
+    - 1011
+  label: 大涅槃經玄義文句會本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0013_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15735
+  label: 大涅槃經玄義文句會本卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0013_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18147
+  label: 大般涅槃經玄義文句會本卷下
+  type: juan
+  level: 1
+hash: sha256:a45a50697f2bac7019a3a4a23f945b08fb2b0bc5d60870efc432315f161ae6d2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
