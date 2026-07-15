@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6g0013/v1
 canonical_location: https://kanripo.org/bkk/KR6g0013/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 涅槃經玄義文句
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0013_000.yaml, hash: 'sha256:84c30b792cf475cf01ee60f9b7dd8673e3e9539aea344453250c1ca523a2837a'}
-  - {seq: 1, filename: KR6g0013_001.yaml, hash: 'sha256:06eaf02ed72b1d7b5bd1843da11f070f8302ac598b2624e9d23518c7da7142e4'}
-  - {seq: 2, filename: KR6g0013_002.yaml, hash: 'sha256:1e29b34dc2a8015cd37b6a9100c054ed2770cbda82e351b3c8841491b57c4c51'}
+  - {seq: 0, filename: KR6g0013_000.yaml, hash: 'sha256:6fc2c856c7756948cbbf29f1595938c34010c185b78806b82ecfb8b3bacbcd07'}
+  - {seq: 1, filename: KR6g0013_001.yaml, hash: 'sha256:3052e3c3a72e97be7054276cf0131cb6ce77a2eb27dc99192eab751022d67a7b'}
+  - {seq: 2, filename: KR6g0013_002.yaml, hash: 'sha256:f0560c8fee2089ae39438e55bee9f98b3296bd81f083be2de17ae3ff88cf4327'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0013_000.markers.yaml, hash: 'sha256:73dd7798856e0334c885fe41b37d4c73751e04fe597b87fe5d136947eb0b2a6d'}
-  - {seq: 1, role: markers, filename: assets/KR6g0013_001.markers.yaml, hash: 'sha256:9f76706be5bfdae019b0584fec24e54f78db5ac5fabeae64b67fc37ace526517'}
-  - {seq: 2, role: markers, filename: assets/KR6g0013_002.markers.yaml, hash: 'sha256:ada9dd66325e9731158702ade75f4c0632932b3a91955e4c35541d6266e20738'}
+  - {seq: 0, role: markers, filename: assets/KR6g0013_000.markers.yaml, hash: 'sha256:c9a0ce3f69bcffaea9e04becc90ff3cf5f9d33f3ccfe7023ba0649ca289a008e'}
+  - {seq: 1, role: markers, filename: assets/KR6g0013_001.markers.yaml, hash: 'sha256:36b5b1e7ac985b344e29cba37b626e8177c973f8251ad8823168bfb098aaf170'}
+  - {seq: 2, role: markers, filename: assets/KR6g0013_002.markers.yaml, hash: 'sha256:c9d1c6a098db07b106f2ea3870d2f92841816a8b891d4175974a0b4b20cec7fa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -79,4 +79,7 @@ table_of_contents:
   label: 大般涅槃經玄義文句會本卷下
   type: juan
   level: 1
-hash: sha256:e66d8717d81983b3cec8a0f295685e965475c822ed381e802c561a7028927538
+hash: sha256:413601d0e5f716ab4193c60ea5b87ada3fad597edabb20230c3eb6513be484b6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
