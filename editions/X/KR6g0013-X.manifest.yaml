@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0013_000-X.yaml, hash: 'sha256:84c30b792cf475cf01ee60f9b7dd8673e3e9539aea344453250c1ca523a2837a'}
+  - {seq: 0, filename: KR6g0013_000-X.yaml, hash: 'sha256:36cec91d91d0310576c715feac327b75beb7a126bac59ea9f3bbba3d464fda70'}
   - {seq: 1, filename: KR6g0013_001-X.yaml, hash: 'sha256:06eaf02ed72b1d7b5bd1843da11f070f8302ac598b2624e9d23518c7da7142e4'}
   - {seq: 2, filename: KR6g0013_002-X.yaml, hash: 'sha256:1e29b34dc2a8015cd37b6a9100c054ed2770cbda82e351b3c8841491b57c4c51'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0013_000-X.markers.yaml, hash: 'sha256:c803f1539152d0224ffe002840bf5adccdc95417f89c60a356466e1e05c5ba0a'}
+  - {seq: 0, role: markers, filename: assets/KR6g0013_000-X.markers.yaml, hash: 'sha256:d9ea6e333a2b6f4bbfafeaf7a5f110d4b7dbdf1db60d8aed9ae5379ea575fdd4'}
   - {seq: 1, role: markers, filename: assets/KR6g0013_001-X.markers.yaml, hash: 'sha256:75fb922ec02ef2d2cc035e6ced4f07c187a0484a055ca0a3a78123016c5a2cd5'}
   - {seq: 2, role: markers, filename: assets/KR6g0013_002-X.markers.yaml, hash: 'sha256:d55ff2faefaf83086401f6a45d554cc9f635f5b55889a95b15c629527770be3a'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0013_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 656-A 大般涅槃經玄義文句會本序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0013_X_000-mulu-2
     span:
-    - front
+    - body
     - 585
     - 585
   label: 凡例
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0013_X_000-mulu-3
     span:
-    - front
+    - body
     - 1011
     - 1011
   label: 大涅槃經玄義文句會本
@@ -77,4 +77,4 @@ table_of_contents:
   label: 大般涅槃經玄義文句會本卷下
   type: juan
   level: 1
-hash: sha256:ee12202aa9c1640784dde72c295f7b60a6657bf3e30df57a860d2b97ceefea0f
+hash: sha256:9d0cc3c817c2865a24d0d559f8910712e75e118c4ca82ca3a9384937859489cd
